@@ -1,0 +1,5 @@
+"ChEMBL ID";"Name";"UniProt Accessions";"Type";"Organism";"Compounds";"Activities";"Tax ID";"Species Group Flag"
+"CHEMBL2487";"Beta amyloid A4 protein";"P05067";"SINGLE PROTEIN";"Homo sapiens";"4068";"7287";"9606";"False"
+"CHEMBL4523942";"Amyloid-beta A4 protein";"P12023";"SINGLE PROTEIN";"Mus musculus";"1";"4";"10090";"False"
+"CHEMBL3638365";"Amyloid beta A4 protein";"P08592";"SINGLE PROTEIN";"Rattus norvegicus";"43";"43";"10116";"False"
+"CHEMBL3085621";"Nucleosome-remodeling factor subunit BPTF";"Q12830";"SINGLE PROTEIN";"Homo sapiens";"60";"79";"9606";"False"
